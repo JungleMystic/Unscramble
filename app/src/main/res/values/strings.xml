@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    
+    <string name="question_count">%1$d of %2$d words</string>
+    <string name="score">Score: %1$d</string>
+    <string name="sample_question">dniwer</string>
+    <string name="instructions">Unscramble the word using all the letters.</string>
+    <string name="enter_your_answer">Enter your answer</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_scored">"You scored: %d"</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="try_again">Try again!</string>
+</resources>
